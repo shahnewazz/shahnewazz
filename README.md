@@ -12,34 +12,6 @@ I'm a passionate full-stack web developer with a strong foundation in both front
 
 ---
 
-<table width="100%">
-  <tr>
-    <td valign="top" width="50%">
-      
-
-- ⚙️ Admin panels with Laravel + Vue  
-- 🎨 UI systems with Blade & Tailwind  
-- 🛒 React-based carts & filters  
-- 🌐 Multilingual site engines  
-- 📚 LMS platforms with progress tracking  
-
-   </td>
-   <td valign="top" width="50%">
-
-**Frontend:**  
-HTML, CSS, JavaScript, Vue, Nuxt, Tailwind, Sass, Bootstrap
-
-**Backend:**  
-PHP, Laravel, WordPress
-
-**Tools:**  
-Git, MySQL, VS Code
-
-   </td>
-  </tr>
-</table>
-
-
 ## 🛠 Tech Stack
 
 **Frontend:**  
