@@ -12,11 +12,11 @@ I'm a passionate full-stack web developer with a strong foundation in both front
 
 ---
 
-<table>
+<table width="100%">
   <tr>
     <td valign="top" width="50%">
       
-### 🚀 What I Build
+
 - ⚙️ Admin panels with Laravel + Vue  
 - 🎨 UI systems with Blade & Tailwind  
 - 🛒 React-based carts & filters  
@@ -25,8 +25,7 @@ I'm a passionate full-stack web developer with a strong foundation in both front
 
    </td>
    <td valign="top" width="50%">
-   
-### 🛠 Tech Stack
+
 **Frontend:**  
 HTML, CSS, JavaScript, Vue, Nuxt, Tailwind, Sass, Bootstrap
 
