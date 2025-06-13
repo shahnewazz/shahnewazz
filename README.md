@@ -52,7 +52,7 @@ I'm a passionate full-stack web developer with a strong foundation in both front
 
 ## 📫 Let's Connect!
 
-- Portfolio: [https://wp.themepure.net/shahnewaz/]
+- Portfolio: https://wp.themepure.net/shahnewaz/
 - LinkedIn: [linkedin.com/in/shahnewazsakil](https://linkedin.com/in/shahnewazz)
 - Email: shahnewaz720@gmail.com
 
